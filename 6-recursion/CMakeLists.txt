@@ -1,0 +1,12 @@
+
+add_executable(min-re min-re.c)
+add_executable(sum-re sum-re.c)
+add_executable(fib-re fib-re.c)
+add_executable(gcd gcd.c)
+add_executable(bsearch-re bsearch-re.c)
+add_executable(pascal pascal.c)
+add_executable(tiles tiles.c)
+add_executable(poi poi.c)
+add_executable(max max.c)
+add_executable(integration integration.c)
+add_executable(triangle triangle.c)

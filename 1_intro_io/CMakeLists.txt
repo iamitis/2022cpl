@@ -1,0 +1,15 @@
+
+
+add_executable(circle circle.c)
+add_executable(sphere sphere.c)
+add_executable(mol mol.c)
+add_executable(admin admin.c)
+add_executable(admin_scanf admin_scanf.c)
+add_executable(change change.c)
+add_executable(pi pi.c)
+add_executable(time time.c)
+add_executable(ascii ascii.c)
+add_executable(inverse inverse.c)
+add_executable(gravity gravity.c)
+add_executable(julian julian.c)
+add_executable(equation equation.c)

@@ -1,0 +1,9 @@
+
+nc:S3776L"TRefactor this function to reduce its Cognitive Complexity from 38 to the 25 allowed.(Ôˆ™“8¹œ€¹Ö0
+kc:S134a"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(áÿùÿÿÿÿ8¹œ€¹Ö0
+Jc:S1081T"0Remove the use of this insecure "gets" function.(™àí€8¹œ€¹Ö0
+Kc:S886^"2Refactor this loop so that it is less error-prone.(“³Öë8ºœ€¹Ö0
+tc:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 35 to the 25 allowed.(–”¬»ùÿÿÿÿ8Âœ€¹Ö0
+gc:S134»"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ÍõÂö8Âœ€¹Ö0
+Lc:S1066Œ"1Merge this "if" statement with the enclosing one.(«µ”Ö8Çœ€¹Ö0
+Lc:S1066“"1Merge this "if" statement with the enclosing one.(«µ”Ö8Çœ€¹Ö0
